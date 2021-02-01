@@ -43,9 +43,7 @@ lista_men_removed_cantidad=[]
 
 #### For using always the same tree (open the ancestors' list)
 
-#pepe=np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_15_generetations.txt")
-pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_7_generetations_ii.txt")
-#pepe=np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_7_generetations_ii_test_02.txt")
+pepe = np.loadtxt("Ancestors_tree_of_7_generetations_ii.txt")
 
 #To save the plots
 
