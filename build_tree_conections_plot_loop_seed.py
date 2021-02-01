@@ -45,14 +45,8 @@ lista_men_removed_cantidad=[]
 #### For using always the same tree (open the ancestors' list)
 # Files with more gen same ances number.
 
-pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_5_generetations_ii.txt")
-##pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_6_generetations_ii.txt")
-##pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_7_generetations_ii.txt")
-##pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_9_generetations_ii.txt")
-##pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_10_generetations_ii.txt")
+pepe = np.loadtxt("Ancestors_tree_of_5_generetations_ii.txt")
 
-
-#pepe = np.loadtxt("/home/kathy/Dropbox/2015-ancestros-simulacion/paper/tree_python_ok/New-paper-Code-ancestros/Ancestors_tree_of_9_generetations_ii_test_02.txt")
 
 #To save the plots
 
