@@ -7,3 +7,6 @@ In each case, remember to indicate properly the path of the ancestor's files wit
 
 3) 5 FILES WITH TABLES ARE PROVIDEN HERE.
 
+Paper link: Diversity in endogamy: an algorithm to represent inbreeding trees
+
+https://www.sciencedirect.com/science/article/abs/pii/S0378437121001667?via%3Dihub
